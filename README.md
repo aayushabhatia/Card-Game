@@ -1,0 +1,1 @@
+This Python program implements a simplified version of the card game "War", where two players draw cards from a shuffled deck and compete to win the most rounds. The game continues until the deck is exhausted or a player chooses to quit.
